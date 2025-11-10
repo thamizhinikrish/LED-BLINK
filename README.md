@@ -118,7 +118,7 @@ CASE 1: LED ON
 <img width="603" height="432" alt="image" src="https://github.com/user-attachments/assets/43de67df-bfcb-4d3f-bd50-eb41a1b7776a" />
 
 CASE 2: LED OFF
-![Uploading image.png…]()
+<img width="596" height="416" alt="image" src="https://github.com/user-attachments/assets/4a8750b0-fe71-47db-b84f-4c0a03e2c9dd" />
 
 ---
 ### RESULT
