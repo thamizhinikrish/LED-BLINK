@@ -73,13 +73,16 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 
 9. Click **Project → Build All**.
-   
+   <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/4a81f8cd-4390-41bb-ab4c-c253855bf5a8" />
+
 
 10. Link the **HEX file** using the post-build process.
-    <img width="1053" height="465" alt="image" src="https://github.com/user-attachments/assets/478187a0-0ee6-4c50-9cac-c3b5ee18521b" />
+    <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a21b3aaf-b857-47b6-b31f-92f793354674" />
+
 
 11. Click **Debug** and connect the **STM Nucleo Board**.
-    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/f72fff44-6073-4ae4-aa78-0da455df9af1" />
+    <img width="880" height="272" alt="image" src="https://github.com/user-attachments/assets/a01fcc86-2c76-4ba8-b1f7-6a12759c8545" />
+
 
 13. Click **Run** to execute the program.
     
@@ -112,8 +115,10 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
+<img width="603" height="432" alt="image" src="https://github.com/user-attachments/assets/43de67df-bfcb-4d3f-bd50-eb41a1b7776a" />
 
 CASE 2: LED OFF
+![Uploading image.png…]()
 
 ---
 ### RESULT
